@@ -1,4 +1,4 @@
-# Hi, I'm Ching Yi Chiang 👋
+# Hi, I'm Ching Yi 👋
 **Product Manager · Taipei, Taiwan**
 
 I'm a product manager with a builder's mindset — I use code and data tools to explore ideas, automate workflows, and sharpen my technical intuition. The projects here are real tools I built to solve real problems.
